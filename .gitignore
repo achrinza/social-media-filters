@@ -1,0 +1,7 @@
+# SPDX-License-Identifier: FSFAP OR MIT
+# SPDX-FileCopyrightText: Copyright 2024 Social Media Filters Authors
+
+# Code editors
+*~
+.*.swp
+\#*#
