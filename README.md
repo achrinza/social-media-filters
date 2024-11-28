@@ -1,8 +1,23 @@
+<!--
+  SPDX-FileCopyrightText: Copyright 2024 Social Media Filters Authors <https://github.com/achrinza/social-media-filters>
+  SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Social Media Filters
 
 This repo consists of my personal social media account filters, grouped by hierarchical categories.
 
+Whether they should be used as positive or negative filters is up to you to decide.
+
 No open source code to interpret and apply these lists, yet...
+
+## Mirrors
+
+This is also hosted on:
+
+- https://github.com/achrinza/social-media-filters
+- https://codeberg.org/achrinza/social-media-filters
+- https://git.sr.ht/~achrinza/social-media-filters
 
 ## Contributing
 
@@ -47,6 +62,14 @@ By making a contribution to this project, I certify that:
 
 ## License
 
-This repository is dual-licensed. FSFAP is the most permissive but may not be permitted in some organisations; In these cases, you may choose the MIT license instead.
+This repository conforms to [REUSE.Software specification](reuse.software).
+Refer to the individual files for the actual licenses.
 
-[FSFAP](./LICENSES/FSFAP.txt) OR [MIT](./LICENSES/MIT.txt)
+The **general guidance** for licenses used is as follows:
+
+| Material      | License                                       |
+|---------------|-----------------------------------------------|
+| Documentation | [CC-BY-SA-4.0](./LICENSES/CC-BY-SA-4.0.txt)   |
+| Source code   | [AGPL-3.0-only](./LICENSES/AGPL-3.0-only.txt) |
+| Config files  | [FSFAP](./LICENSES/FSFAP.txt)                 |
+| Filters/Lists | [ODbL-1.0](./LICENSES/ODbL-1.0.txt)           |

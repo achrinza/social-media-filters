@@ -1,11 +1,11 @@
-# SPDX-License-Identifier: FSFAP OR MIT
-# SPDX-FileCopyrightText: Copyright 2024 Social Media Filters Authors
+# SPDX-FileCopyrightText: Copyright 2024 Social Media Filters Authors <https://github.com/achrinza/social-media-filters>
+# SPDX-License-Identifier: ODbL-1.0
 
 meta:
   parentCategories:
     - gambling
     - burned-in-ads
-  description: >
+  description: >-
     Accounts that have affiliate links to gambling services and/or (re)posts content with burned-in gambling ads.
     Excludes accounts of the actual gambling services.
 
@@ -98,4 +98,9 @@ twitter:
   - 17854757
   - 1689446879421952000
   - 1809727799659474944
-  
+  - 1299388844010217472
+  - 1410081793542328323
+  - 112953739
+  - 1775072176854720513
+  - 1421722788855963650
+  - 1390407638748389376

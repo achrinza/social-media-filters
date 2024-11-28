@@ -1,0 +1,13 @@
+# SPDX-FileCopyrightText: Copyright 2024 Social Media Filters Authors <https://github.com/achrinza/social-media-filters>
+# SPDX-License-Identifier: ODbL-1.0
+
+meta:
+  description: >-
+    Accounts which create innocous fake replies.
+    Excludes accounts which create actual malicious posts (e.g. fake crypto airdrops).
+    Excludes accounts which only creates fake posts.
+
+twitter:
+  - 1829389937134768129
+  - 1828360423135158276
+  - 106954647
